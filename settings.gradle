@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Okuduğun Kitaplarını Kaydet'
